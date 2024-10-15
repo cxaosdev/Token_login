@@ -9,12 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "### 1. `login` 함수의 실행 과정에 대해 설명",
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "express-session": "^1.18.0",
     "jsonwebtoken": "^9.0.2"
-  }
+  },
+  "devDependencies": {}
 }
